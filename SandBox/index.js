@@ -10,6 +10,10 @@ const maFunction = (params) => {
     return params*2;
 }
 
-const maFunction = (params) => params*2
+const maFunction = (params) => params*2;
 
-const maFunction = params => params *2 
+const maFunction = params => params *2 ;
+
+const test= setTimeout(() => {
+    
+}, timeout);
